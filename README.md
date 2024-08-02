@@ -1,16 +1,9 @@
-<h1 align="center">Hi 👋, I'm Diego Vega</h1>
-<h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=dvegaa20&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-  <a href="https://[your-portfolio-link]">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
-  </a>
-</h2>
-<h3 align="center" >Fullstack Developer</h3>
-<h3 align="center">I'm a software engineer from Mexico studying at ITESM QRO.</h3>
+<h1 align="center">Hi 👋, I'm Diego Vega Camacho</h1>
+<h3 align="center">A passionate software engineer from Mexico studying at ITESM QRO.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dvegaa20&label=Profile%20views&color=0e75b6&style=flat" alt="dvegaa20" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dvegaa20" alt="dvegaa20" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dvegaa20" alt="dvegaa20" /></a> </p>
 
 - 🔭 I’m currently working on [Unity-Labs](https://github.com/dvegaa20/Unity-Labs)
 
@@ -32,12 +25,8 @@
 
 <br>
 
-<details>
-  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
-  <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=dvegaa20&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=dvegaa20&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvegaa20&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=dvegaa20&theme=tokyo-night)
-  </div>
-</details>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dvegaa20&show_icons=true&theme=dark&locale=en" alt="dvegaa20" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dvegaa20&theme=dark" alt="dvegaa20" width="475" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dvegaa20&show_icons=true&theme=dark&locale=en&layout=compact" alt="dvegaa20" /></p>

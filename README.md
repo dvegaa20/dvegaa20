@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, I'm Diego Vega Camacho</h1>
-<h3 align="center">A passionate software engineer from Mexico studying at ITESM QRO.</h3>
+<h1 align="center">Hi 👋, I'm Diego Vega</h1>
+<h2 align="center">
+  <img src="https://komarev.com/ghpvc/?username=dvegaa20&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  <a href="https://[your-portfolio-link]">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
+  </a>
+</h2>
+<h3 align="center" >Fullstack Developer</h3>
+<h3 align="center">I'm a software engineer from Mexico studying at ITESM QRO.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dvegaa20&label=Profile%20views&color=0e75b6&style=flat" alt="dvegaa20" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dvegaa20" alt="dvegaa20" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dvegaa20" alt="dvegaa20" /></a> </p>
 
 - 🔭 I’m currently working on [Unity-Labs](https://github.com/dvegaa20/Unity-Labs)
 

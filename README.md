@@ -1,20 +1,6 @@
-<h1 align="center">Hi 👋, I'm Diego Vega Camacho</h1>
-<h3 align="center">A passionate software engineer from Mexico studying at ITESM QRO.</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dvegaa20&label=Profile%20views&color=0e75b6&style=flat" alt="dvegaa20" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dvegaa20" alt="dvegaa20" /></a> </p>
-
-- 🔭 I’m currently working on [Unity-Labs](https://github.com/dvegaa20/Unity-Labs)
-
-- 🌱 I’m currently learning **React, Swift, multi-agent systems**
-
-- 👯 I’m looking to collaborate on **Full-Stack developing**
-
-- 🤝 I’m looking for help with **App deployment**
-
-- 📫 How to reach me **diego.vega.camacho@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/diegovegacam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegovegacam" height="30" width="40" /></a>

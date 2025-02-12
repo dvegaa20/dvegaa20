@@ -11,3 +11,5 @@
 <h1></h1>
 
 <p align="center">Click on the Image 🥸</p>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=018eabcd-6395-4ec2-a423-d9584cd8cc5d)](https://github.com/anuraghazra/github-readme-stats)

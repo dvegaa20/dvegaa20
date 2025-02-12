@@ -12,4 +12,4 @@
 
 <p align="center">Click on the Image 🥸</p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dvegaa20)](https://github.com/anuraghazra/github-readme-stats)
+[![dvegaa20's Waka languages](https://github-readme-stats.vercel.app/api/wakatime?username=dvegaa20&theme=discord_old_blurple&layout=compact&custom_title=%20Where%20my%20coding%20hours%20go!&langs_count=16)](https://github.com/dvegaa20/github-readme-stats)

@@ -12,4 +12,9 @@
 
 <p align="center">Click on the Image 🥸</p>
 
+[![dvegaa20's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvegaa20&theme=discord_old_blurple&hide=stars,contribs&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Stats&show=reviews)](https://github.com/dvegaa20/github-readme-stats)
+
+
 [![dvegaa20's Waka languages](https://github-readme-stats.vercel.app/api/wakatime?username=dvegaa20&theme=discord_old_blurple&layout=compact&custom_title=%20Where%20my%20coding%20hours%20go!&langs_count=16)](https://github.com/dvegaa20/github-readme-stats)
+
+[![wakatime](https://wakatime.com/badge/user/018eabcd-6395-4ec2-a423-d9584cd8cc5d.svg)](https://wakatime.com/@018eabcd-6395-4ec2-a423-d9584cd8cc5d)
